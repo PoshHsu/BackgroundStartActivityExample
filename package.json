@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "react": "16.8.3",
-    "react-native": "0.59.0"
+    "react-native": "0.59.0",
+    "react-native-start-activity": "https://github.com/PoshHsu/react-native-start-activity.git"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",

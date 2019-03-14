@@ -4871,6 +4871,10 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.4.tgz#90f336a68c3a29a096a3d648ab80e87ec61482a2"
   integrity sha512-PVadd+WaUDOAciICm/J1waJaSvgq+4rHE/K70j0PFqKhkTBsPv/82UGQJNXAngz1fOQLLxI6z1sEDmJDQhCTAA==
 
+"react-native-start-activity@https://github.com/PoshHsu/react-native-start-activity.git":
+  version "1.0.0"
+  resolved "https://github.com/PoshHsu/react-native-start-activity.git#fdae9f25a19ae860d88c1fe02c33c35adac2a7df"
+
 react-native@0.59.0:
   version "0.59.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.0.tgz#7d0ad297da3fd2e18f387f0ef5581270aaabac42"

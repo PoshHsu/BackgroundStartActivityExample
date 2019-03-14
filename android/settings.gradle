@@ -1,3 +1,5 @@
 rootProject.name = 'BackgroundStartActivityExample'
+include ':react-native-start-activity'
+project(':react-native-start-activity').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-start-activity/android')
 
 include ':app'
